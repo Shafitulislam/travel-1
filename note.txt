@@ -1,0 +1,103 @@
+notes----
+
+
+
+font-family----
+ opensans
+   400,700,900
+
+   italic 400,700
+
+
+   font-family: 'Open Sans', sans-serif;
+
+
+
+color-----
+   black : #54524f
+   dunt : deb37e
+   yellow: e2a355
+
+340
+530
+
+bg-1  #7f7770
+bg-2  #deb37e
+
+
+
+correction: footer
+             tittle
+
+
+
+paddig bottom
+
+'Roboto';
+      400,500
+     font-family: 'Roboto', sans-serif;
+lato
+      400, 700
+      font-family: 'Lato', sans-serif;
+header----
+
+banner----- slider
+   
+
+layout define-----
+
+
+section define-----
+
+semantic markup----
+
+
+code comment----
+
+reuseable blocks
+
+
+ side button
+
+<div class="col-lg-1">
+                <div class="side_btn">
+                  <div class="btn_rotate">
+                    <p class="rotate_1">
+                      <button type="button" class="btn pn_btn" data-bs-target="#bps_carid" data-bs-slide="prev"> PREV</button></p>
+                      <p class="rotate_2"><span>|||</span></p>
+                      <p class="rotate_3"><button type="button" class="btn pp_btn" data-bs-target="#bps_carid" data-bs-slide="next"> NEXT</button></p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="s-content">
+              <div class="row">
+                <div class="col-lg-4">
+                  <div class="s-img">
+                    <img src="img/man3.png" alt="Nipro" class="img-fluid">
+                    <i class="fa fa-quote-left"></i>
+                  </div>
+                </div>
+                <div class="col-lg-8">
+                  <div class="s-desc">
+                    <h5 class="mb-0">Al-Rayhan</h5>
+                    <p class="mb-0 p1">Co-Founder & COO</p>
+                    <p class="mb-0 p2">DeviserWeb</p>
+                    <p class="mb-0 p3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five</p>
+                    <p class="mb-0 p3">
+                    Lcenturies, but also the leap into electronic typesetting, remaining essentially  like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                  </div>
+                </div>
+              </div>
+            </div>

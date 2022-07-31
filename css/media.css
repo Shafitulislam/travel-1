@@ -1,0 +1,354 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    
+    /*MENU START*/
+.logo h1{
+     font-size: 25px;
+}
+.menu ul li a{
+        padding: 10px 0 0px !important;
+    }
+.s_a{
+    padding-bottom: 15px;
+}  
+.ddm_s[data-bs-popper] {
+    top: 60px;
+    left: 0px;
+    margin-top: 0;
+   } 
+.se_g{
+    padding right: 3px !important;
+    text-align: left;
+}      
+.ddm_s{
+    width: 300px;
+    padding:5px 5px;
+    margin: 0
+    border: 1px solid #8e8e8e;
+    border-radius: 0;
+}
+.fa-magnifying-glass:before, .fa-search:before {
+    content: "\f002";
+}
+
+.s_input{
+    padding:none;
+}
+/*MENU END*/
+
+/*top banner & slider*/
+
+.bs_item{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.bs_item h2{
+    font-size: 40px;
+}
+.bs_item button{
+    width: 150px;
+    height: 45px;
+}
+.w-content h2 {
+    margin-top: 30px;
+}
+.w-content p {
+    font-size: 18px;
+}
+.l-item {
+    margin: 0 auto;
+   /* width: 340px;*/
+}
+.letsgo_b {
+    /* margin-top: 20px; */
+    margin-left: 35px !important;
+    padding-top: 20px;
+}
+}
+
+.bs_item{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.bs_item h2{
+    font-size: 40px;
+}
+.bs_item button{
+    width: 150px;
+    height: 45px;
+}
+.containerq{
+    padding: 0px;
+}
+.g_text1 {
+    padding: 20px 35px;
+}
+.g_text1 h2 {
+    font-size: 32px;
+}
+.g_text1 p {
+    margin: 40px 0;
+}
+.h_img {
+    padding: 0 10px;
+}
+.h_img h2 {
+    font-size: 30px;
+}
+
+.lorem {
+    margin: 0px;
+}
+.p_2 {
+    font-size: 20px;
+    padding: 0 25px;
+}
+.Subscribe-btn {
+    width: 460px;
+    height: 56px;
+    margin: 0 auto;
+}
+.t_text p {
+    font-size: 20px;
+    padding: 15px;
+}
+.Subscribe-btn {
+    width: 270px;
+    height: 46px;
+    margin: 0 auto;
+}
+.input-group {
+     margin: 10px;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.letsgo_b {
+    width: 100px;
+    height: 46px;
+    margin-top: 0 px;
+    letter-spacing: 0;
+    font-size: 14px; 
+}
+.title {
+    padding-bottom: 50px;
+}
+.f_1{
+    margin: 0 auto;
+   /* padding: 0 35px 10px;*/
+}
+.f_1 p {
+    padding-right: 0px;
+}
+.f_2 {
+    /*padding: 0 35px 10px;*/
+}
+.banner{
+    margin-top: -65px;
+}
+.footer {
+    padding: 70px 0 40px;
+    margin-top: 70px;
+}
+.f_2 h4 {
+    color: #fff;
+    padding-top: 20px;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/*menu start*/
+.logo h1{
+     font-size: 25px;
+}
+.menu ul li a{
+        padding: 15px 0 0px !important;
+    }
+.s_a{
+    padding-bottom: 15px;
+}  
+.ddm_s[data-bs-popper] {
+    top: -10px;
+    left: 100px;
+    margin-top: 0;
+   }   
+.fa-magnifying-glass:before, .fa-search:before {
+    content: "\f002";
+}
+
+
+/*top banner & slider*/
+.w-content h2 {
+    margin-top: 30px;
+}
+.w-content p {
+    font-size: 18px;
+}
+.l-item {
+    margin: 0 auto;
+    width: 340px;
+}
+.letsgo_b {
+    margin-top: 0px;
+}
+.banner{
+    margin-top: 0px;
+}
+
+.bs_item{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.bs_item h2{
+    font-size: 40px;
+}
+.bs_item button{
+    width: 150px;
+    height: 45px;
+}
+.containerq{
+    padding: 0 90px;
+}
+.g_text1 {
+    padding: 20px 10px;
+}
+.g_text1 h2 {
+    font-size: 32px;
+}
+.g_text1 p {
+    margin: 40px 0;
+}
+.h_img {
+    padding: 0 40px;
+}
+.h_img h2 {
+    font-size: 36px;
+}
+
+.lorem {
+    margin: 0 95px;
+}
+.p_2 {
+    font-size: 20px;
+    padding: 0 25px;
+}
+.Subscribe-btn {
+    width: 525px;
+    height: 56px;
+    margin: 0 auto;
+}
+.input-group {
+     margin: 10px 20px;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.letsgo_b {
+    width: 170px;
+    height: 56px;
+    margin-top: 0 px; 
+}
+.letsgo_b1 {
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.title {
+    padding-bottom: 200px;
+}
+.footer {
+    padding: 130px 30px 70px;
+}
+.Subscribe-btn {
+    width: 500px;
+}
+
+
+
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*menu start*/
+.menu ul li a{
+    padding: 15px 0 0px !important;
+}
+.s_a{
+    padding-bottom: 15px;
+}  
+.ddm_s[data-bs-popper] {
+    top: -10px;
+    left: 100px;
+    margin-top: 0;
+   }
+ /*menu end     */
+.containerq{
+    
+}
+.g_text1 {
+    padding: 20px 10px;
+}
+.g_text1 h2 {
+    font-size: 38px;
+}
+.g_text1 p {
+    margin: 40px 0;
+}
+.h_img {
+    padding: 0 40px;
+}
+h_img h2 {
+    font-size: 36px;
+}
+.p_1 {
+    margin-top: 0px;
+}
+.Subscribe-btn {
+    width: 500px;
+}
+
+
+
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*top banner & slider*/
+
+.bs_item{
+    margin-top: 180px;
+    margin-bottom: 180px;
+}
+.bs_item h2{
+    font-size: 50px;
+}
+
+.img-fluid {}
+
+.banner {
+    margin-top: -36px;
+}
+.f_1 p {
+    padding-right: 0 px;
+}
+
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+     .l-item {
+    width: 340px;
+
+}
+
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+    .l-item {
+    width: 340px;
+
+}
+
+}
